@@ -3,7 +3,7 @@
 [Italiano](README.md) - [English](README_EN.md)<br><br>
 
 # REUPLOAD - REPOSITORY NON UFFICIALE
-#Dati COVID-19 Italia
+# Dati COVID-19 Italia
 
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/pcm-dpc/COVID-19/commits/master)
